@@ -17,5 +17,5 @@ def factorial(n):
     return n * factorial(n - 1)
 
 
-factorial(5)
-factorial_iter(5)
+print(factorial(5))
+print(factorial_iter(5))
