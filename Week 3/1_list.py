@@ -22,6 +22,7 @@ def size():
 
 
 def clear():
+    global items
     items = []
 
 
